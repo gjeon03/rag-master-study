@@ -66,3 +66,11 @@ deactivate
 pip install -r requirements.txt
 
 ```
+
+## Gemini AI
+
+```
+
+pip install google-generativeai
+
+```
