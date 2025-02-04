@@ -73,4 +73,7 @@ pip install -r requirements.txt
 
 pip install google-generativeai
 
+⬇️이게 맞는듯?
+pip install -U langchain-google-genai
+
 ```
